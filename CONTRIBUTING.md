@@ -34,7 +34,7 @@ These are just guidelines, not rules. Use your best judgment, and feel free to p
 
 This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code.
-Please report unacceptable behavior to [atom@github.com](mailto:atom@github.com).
+Please report any kind of unacceptable behavior to [atom@github.com](mailto:atom@github.com).
 
 ### Atom and Packages
 
